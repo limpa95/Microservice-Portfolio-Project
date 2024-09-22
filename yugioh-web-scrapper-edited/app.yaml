@@ -3,7 +3,7 @@ runtime: nodejs18
 env_variables:
   MONGODB_CONNECT_STRING: 'mongodb+srv://limpa:4JVVI36rEKyV3igo@cluster0.ifmwtzu.mongodb.net/'
 
-instance_class: F4
+instance_class: F1
 
 automatic_scaling:
   min_idle_instances: 1
